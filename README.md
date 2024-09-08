@@ -9,8 +9,9 @@ Archivos creados:
 Scripts para cargar frontend y backend:
 
 npm run
-    "devfront": "vite",
-    "devback": "nodemon index.js",
+
+ - "devfront": "vite",
+ - "devback": "nodemon index.js",
 
 Archivos de frontend movidos a carpeta "client"
 
